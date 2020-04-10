@@ -20,6 +20,8 @@
     "dependencies": {
         "express": "^4.17.1",
         "fs": "0.0.1-security",
-        "requirer": "0.0.4"
+        "requirer": "0.0.4",
+        "util": "^0.12.2",
+        "uuid": "^7.0.3"
     }
 }
